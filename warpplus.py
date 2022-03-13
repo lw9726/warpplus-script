@@ -10,7 +10,7 @@ import telegram
 
 referrer = input("请输入WARP应用内的设备ID：")
 chat_id = input("请输入你的Telegram ID（可在 @userinfobot 查看）：")
-tg_bot_token = input("请输入Telegram bot API Token （可在 @botfather 获取）")
+tg_bot_token = input("请输入Telegram bot API Token （可在 @botfather 获取）：")
 
 bot = telegram.Bot(token=tg_bot_token)
 
