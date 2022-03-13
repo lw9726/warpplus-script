@@ -5,3 +5,7 @@
 ## 使用方法
 
 待开发
+
+## 参考资料
+
+GitHub：ALIILAPRO/warp-plus-cloudflare
