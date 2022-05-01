@@ -2,6 +2,8 @@
 
 批量刷WARP+的脚本，支持Telegram Bot推送
 
+如对脚本不放心，可使用此沙箱先测一遍再使用：https://killercoda.com/playgrounds/scenario/ubuntu
+
 ## 使用方法
 
 先使用以下命令安装依赖
